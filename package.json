@@ -1,0 +1,32 @@
+{
+  "name": "php-js-function",
+  "version": "1.0.0",
+  "description": "pollyfill PHP function for JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SangHakLee/PHP-JS-function.git"
+  },
+  "keywords": [
+    "PHP",
+    "JavaScript"
+  ],
+  "author": "Sanghaklee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SangHakLee/PHP-JS-function/issues"
+  },
+  "homepage": "https://github.com/SangHakLee/PHP-JS-function#readme",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  },
+  "devDependencies": {
+    "should": "^11.2.1"
+  }
+}
