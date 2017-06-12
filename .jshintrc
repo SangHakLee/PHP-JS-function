@@ -1,0 +1,7 @@
+{
+	"esversion":6,
+	"node": true,
+	"mocha": true,
+    "asi" : true, /* no semicolon*/
+	"-W138": true	/*Regular parameters should not come after default parameters */
+}
